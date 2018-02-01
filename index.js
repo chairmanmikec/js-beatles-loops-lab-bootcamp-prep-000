@@ -15,5 +15,7 @@ function johnLennonFacts(array){
 
 function iLoveTheBeatles(number){
   var newArray = [];
-  
+  do{
+    
+  }while
 }
