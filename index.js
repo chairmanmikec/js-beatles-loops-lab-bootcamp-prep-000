@@ -9,6 +9,6 @@ function johnLennonFacts(array){
   var newArray = [];
   while(array.length > 0){
     newArray.push(`${array[0]}!!!`);
-    array.unshift();
+    array.shift();
   } return newArray
 }
